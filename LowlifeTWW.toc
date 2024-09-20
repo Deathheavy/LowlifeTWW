@@ -1,0 +1,9 @@
+## Interface: 110000, 110002
+## Title: LowLifeTWW
+## Author: Deathheavy
+## Notes: This addon plays a sound when health is below a certain threshold.
+## Version: 0.01
+## DefaultState: enabled
+## SavedVariables: LowlifeTWW_SavedVars
+
+LowlifeTWW.lua
